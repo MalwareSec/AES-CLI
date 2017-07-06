@@ -18,3 +18,5 @@ Run main:
 python main.py
 
 Follow me on twitter for more: @Malware_Sec
+
+~This project is fully functional but still in development~
