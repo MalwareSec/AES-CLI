@@ -13,11 +13,7 @@ Your RSA private key is then stored in the file 'key.bin'
 
 Run the main encryption program:
 
-<<<<<<< HEAD
   python encrypt.py
-=======
-python encrypt.py
->>>>>>> 60f3fc465a67547f58bf5a2d953ea7fcb6761548
 
 Follow me on twitter for more: @Malware_Sec
 
