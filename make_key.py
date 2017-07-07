@@ -1,4 +1,3 @@
-#pip install pycrypto
 #Python 2.7
 import os
 
