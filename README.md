@@ -13,10 +13,10 @@ Create your initialization vector:
 
 make_iv.py
 
-Run main:
+Run the main encryption program:
 
-python main.py
+python encrypt.py
 
 Follow me on twitter for more: @Malware_Sec
 
-~This project is fully functional but still in development~
+~This project is fully functional but still in development
